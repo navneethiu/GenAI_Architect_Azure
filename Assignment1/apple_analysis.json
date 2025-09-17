@@ -1,0 +1,12 @@
+{
+  "company_name": "Apple",
+  "stock_code": "AAPL",
+  "newsdesc": "Limited news data available for Apple (AAPL)",
+  "sentiment": "Neutral",
+  "people_names": [],
+  "places_names": [],
+  "other_companies_referred": [],
+  "related_industries": [],
+  "market_implications": "The lack of news may indicate stability or a lack of significant developments affecting the stock, which could lead to a neutral market reaction.",
+  "confidence_score": 0.8
+}

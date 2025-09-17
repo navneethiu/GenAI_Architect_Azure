@@ -1,0 +1,12 @@
+{
+  "company_name": "Microsoft",
+  "stock_code": "MSFT",
+  "newsdesc": "Limited news data available for Microsoft (MSFT)",
+  "sentiment": "Neutral",
+  "people_names": [],
+  "places_names": [],
+  "other_companies_referred": [],
+  "related_industries": [],
+  "market_implications": "The lack of news may indicate stability or stagnation in market interest, potentially leading to a neutral market reaction.",
+  "confidence_score": 0.8
+}

@@ -1,0 +1,12 @@
+langchain
+langchain-openai==0.3.33
+langchain-community
+openai
+mlflow
+pydantic
+yfinance
+requests
+streamlit
+plotly
+pandas
+python-dotenv
